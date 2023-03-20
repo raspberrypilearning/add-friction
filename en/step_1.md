@@ -1,59 +1,11 @@
-## Introduction
+In the Project window select 'Materials' and then 'PhysicsMaterials'. Right-click in the window, click 'Create' and select **Physic Material**. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Give your physics material a sensible name. 
 
-### What you will make
+Adjust the properties to create the effect you want:
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
++ **Dynamic friction ** - A value from 0-1. Friction when moving. 0 is like ice. 1 is hard to slow down.
++ **Static friction ** - A value from 0-1. Friction from still on a surface. 0 is like ice. 1 is hard to slow down.
++ **Bounce ** - A value from 0-1. 0 will not bounce. 1 will keep bouncing without losing energy.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Drag the material onto one or more GameObjects. 
