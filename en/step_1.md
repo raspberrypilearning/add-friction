@@ -1,8 +1,8 @@
-In the Project window select 'Materials' and then 'PhysicsMaterials'. Right-click in the window, click 'Create' and select **Physic Material**. 
+In the Project window select 'Materials' and then 'PhysicsMaterials'. Right-click in the window, click 'Create', and select **Physic Material**. 
 
 Give your physic material a sensible name. 
 
-Adjust the properties to create the effect you want:
+Adjust the properties to create the effect you want.
 
 Physic Materials have three attributes that you can set to any value between `0` and `1` to change an object's interactions:
 + **Dynamic Friction:** How quickly an object that is already moving will slow down. `0` is like ice (not very much friction) and `1` would stop a moving object very quickly.
