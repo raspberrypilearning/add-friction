@@ -1,6 +1,6 @@
 In the Project window select 'Materials' and then 'PhysicsMaterials'. Right-click in the window, click 'Create', and select **Physic Material**. 
 
-Give your physic material a sensible name. 
+Give your Physic Material a sensible name. 
 
 Adjust the properties to create the effect you want.
 
